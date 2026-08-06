@@ -6,7 +6,7 @@ This project demonstrates how to create a reusable hardware layer for ultrasonic
 
 ## 🎬 Demo
 
-![Ultrasonic Sensor Demo](docs/demo.gif)
+<img width="854" height="480" alt="us_example" src="https://github.com/user-attachments/assets/3e68459f-5ddf-4c8d-a6c6-288d42e3daf3" />
 
 ## ✨ Features
 
