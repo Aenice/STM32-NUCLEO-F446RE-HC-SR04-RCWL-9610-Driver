@@ -6,7 +6,7 @@ This project demonstrates how to create a reusable hardware layer for ultrasonic
 
 ## 🎬 Demo
 * First <img width="854" height="480" alt="us_example" src="https://github.com/user-attachments/assets/3e68459f-5ddf-4c8d-a6c6-288d42e3daf3" />
-* Second <img width="550" height="309" alt="ezgif-221bebece7592149" src="https://github.com/user-attachments/assets/26767119-2f5e-47c2-9afb-d717c8e9c1a9" />
+* Second <img width="854" height="480" alt="ezgif-221bebece7592149" src="https://github.com/user-attachments/assets/26767119-2f5e-47c2-9afb-d717c8e9c1a9" />
 
 ## ✨ Features
 
